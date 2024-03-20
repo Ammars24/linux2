@@ -1,0 +1,30 @@
+   0 mkdir -p /home/user/start
+   1 touch /home/user/start/1.txt
+   2 echo "Star" >> /home/user/star/1.txt
+   3 mkdir -p /home/user/start
+   4 clear
+   5 mkdir -p /home/user/star
+   6 touch -p /home/user/star/1.txt
+   7 touch   /home/user/star/1.txt
+   8 echo "Star" >> /home/user/star/1.txt
+   9 date + %D
+  10 date 
+  11 date + '%D'
+  12 date + ' %D '
+  13 date + clear
+  14 clear
+  15 mkdir -p /home/user/star
+  16 cd
+  17 ls -l
+  18 mkdir -p /home/user/start/1.txt
+  19 mkdir -p /home/user/start
+  20 echo "Start" >> /home/user/start/1.txt
+  21 date
+  22 date + '%D'
+  23 date + '%D' >> /home/user/start/1.txt
+  24 date
+  25 mkdir /opt/task
+  26 cp /opt/task/start.txt
+  27 cp /home/user/start/1.txt  /opt/task/start.txt
+  28 ls -a / | tail -4
+  29 history >history.txt
